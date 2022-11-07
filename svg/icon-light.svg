@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850px" height="514px" viewBox="0 0 850 514" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(0.490000, 0.837000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group">
+                <g transform="translate(0.000000, 207.317000)" id="Path">
+                    <polygon points="0 168.133 115.364 0 230.728 168.133"></polygon>
+                    <polygon points="618.293 168.133 733.656 0 849.02 168.133"></polygon>
+                </g>
+                <polygon id="Path" points="596.704 0 424.51 255.146 252.315 0 164.845 127.573 424.51 512.326 684.175 127.573"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
