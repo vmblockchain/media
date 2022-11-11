@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1500px" height="500px" viewBox="0 0 1500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3">
+            <rect id="Rectangle" fill="#000000" x="0" y="0" width="1500" height="500"></rect>
+            <g id="Group-2" transform="translate(567.000000, 164.000000)" fill="#FFFFFF">
+                <g id="icon-light" transform="translate(96.000000, 0.000000)" fill-rule="nonzero">
+                    <g id="Path" transform="translate(0.000000, 40.000000)">
+                        <polygon points="0 33 22.4200372 0 44.8400744 33"></polygon>
+                        <polygon points="120.16012 33 142.579963 0 165 33"></polygon>
+                    </g>
+                    <polygon id="Path" points="115.820091 0 82 49.8014936 48.1797123 0 31 24.9007468 82 100 133 24.9007468"></polygon>
+                </g>
+                <text id="build-a-new-world" font-family="Roboto-Light, Roboto" font-size="48" font-weight="300">
+                    <tspan x="0" y="160">build a new world</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

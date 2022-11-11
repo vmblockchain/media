@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1500px" height="500px" viewBox="0 0 1500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="1500" height="500"></rect>
+            <g id="Group-2" transform="translate(567.000000, 164.000000)" fill="#000000">
+                <g id="icon-light" transform="translate(96.000000, 0.000000)" fill-rule="nonzero">
+                    <g id="Path" transform="translate(0.000000, 40.000000)">
+                        <polygon points="0 33 22.4200372 0 44.8400744 33"></polygon>
+                        <polygon points="120.16012 33 142.579963 0 165 33"></polygon>
+                    </g>
+                    <polygon id="Path" points="115.820091 0 82 49.8014936 48.1797123 0 31 24.9007468 82 100 133 24.9007468"></polygon>
+                </g>
+                <text id="build-a-new-world" font-family="Roboto-Light, Roboto" font-size="48" font-weight="300">
+                    <tspan x="0" y="160">build a new world</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(1206.000000, 423.000000)" fill="#000000">
+                <g id="icon-light" fill-rule="nonzero">
+                    <g id="Path" transform="translate(0.000000, 16.000000)">
+                        <polygon points="0 13 8.96801489 0 17.9360298 13"></polygon>
+                        <polygon points="48.064048 13 57.0319851 0 66 13"></polygon>
+                    </g>
+                    <polygon id="Path" points="46.0943504 0 32.5 19.9205974 18.9055706 0 12 9.96029872 32.5 40 53 9.96029872"></polygon>
+                </g>
+                <text id="VM-Games" font-family="Roboto-Black, Roboto" font-size="34" font-weight="800">
+                    <tspan x="82" y="32">VM</tspan>
+                    <tspan x="134.261719" y="32" font-family="Roboto-Regular, Roboto" font-weight="normal"> </tspan>
+                    <tspan x="142.678711" y="32" font-family="Roboto-LightItalic, Roboto" font-style="italic" font-weight="300">Games</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(599.000000, 423.000000)" fill="#000000">
+                <g id="icon-light" fill-rule="nonzero">
+                    <g id="Path" transform="translate(0.000000, 16.000000)">
+                        <polygon points="0 13 8.96801489 0 17.9360298 13"></polygon>
+                        <polygon points="48.064048 13 57.0319851 0 66 13"></polygon>
+                    </g>
+                    <polygon id="Path" points="46.0943504 0 32.5 19.9205974 18.9055706 0 12 9.96029872 32.5 40 53 9.96029872"></polygon>
+                </g>
+                <text id="VM-Blockchain" font-family="Roboto-Black, Roboto" font-size="34" font-weight="800">
+                    <tspan x="82" y="32">VM</tspan>
+                    <tspan x="134.261719" y="32" font-family="Roboto-Regular, Roboto" font-weight="normal"> </tspan>
+                    <tspan x="142.678711" y="32" font-family="Roboto-LightItalic, Roboto" font-style="italic" font-weight="300">Blockchain</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(53.000000, 423.000000)" fill="#000000">
+                <g id="icon-light" fill-rule="nonzero">
+                    <g id="Path" transform="translate(0.000000, 16.000000)">
+                        <polygon points="0 13 8.96801489 0 17.9360298 13"></polygon>
+                        <polygon points="48.064048 13 57.0319851 0 66 13"></polygon>
+                    </g>
+                    <polygon id="Path" points="46.0943504 0 32.5 19.9205974 18.9055706 0 12 9.96029872 32.5 40 53 9.96029872"></polygon>
+                </g>
+                <text id="VM-Foundation" font-family="Roboto-Black, Roboto" font-size="34" font-weight="800">
+                    <tspan x="82" y="32">VM</tspan>
+                    <tspan x="134.261719" y="32" font-family="Roboto-Regular, Roboto" font-weight="normal"> </tspan>
+                    <tspan x="142.678711" y="32" font-family="Roboto-LightItalic, Roboto" font-style="italic" font-weight="300">Foundation</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
