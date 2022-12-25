@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="388px" height="57px" viewBox="0 0 388 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Group</title>
+<svg width="385px" height="57px" viewBox="0 0 385 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo-2</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" fill="#000000">
-            <g id="icon-light" transform="translate(0.000000, 2.000000)" fill-rule="nonzero">
+        <g id="logo-2" fill="#000000" fill-rule="nonzero">
+            <g id="icon-light" transform="translate(0.000000, 2.000000)">
                 <g id="Path" transform="translate(0.000000, 21.000000)">
                     <polygon points="0 17 11.6855952 0 23.3711903 17"></polygon>
                     <polygon points="62.628911 17 74.3144048 0 86 17"></polygon>
                 </g>
                 <polygon id="Path" points="60.0731847 0 42.5 25.8967767 24.9267133 0 16 12.9483883 42.5 52 69 12.9483883"></polygon>
             </g>
-            <text id="VM-Blokchain" font-family="Roboto-Black, Roboto" font-size="48" font-weight="800">
+            <text id="VM" font-family="Roboto-Black, Roboto" font-size="48" font-weight="800">
                 <tspan x="102" y="45">VM</tspan>
-                <tspan x="175.78125" y="45" font-family="Roboto-Regular, Roboto" font-weight="normal"> </tspan>
-                <tspan x="187.664062" y="45" font-family="Roboto-LightItalic, Roboto" font-style="italic" font-weight="300">Blokchain</tspan>
+            </text>
+            <text id="Blockhain" font-family="Roboto-ThinItalic, Roboto" font-size="48" font-style="italic" font-weight="300">
+                <tspan x="187.664062" y="45">Blockhain</tspan>
             </text>
         </g>
     </g>
